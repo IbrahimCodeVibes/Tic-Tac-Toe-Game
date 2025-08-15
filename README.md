@@ -13,3 +13,4 @@ A clean and modern implementation of the classic Tic Tac Toe game for two player
 - CSS3 (Flexbox + Grid)
 - JavaScript (Vanilla)
 
+## Follow me on IG!
